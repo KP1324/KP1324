@@ -1,19 +1,23 @@
-## Hi there 👋
-I am currently a beginner at this stuff at everything I do. I am very interested in tech.
+<h1 align="center">Hi there 👋</h1>
+I am currently a beginner at this Web Dev, Electronics, and Programing.
 
 ## STATS
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KP1324&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KP1324&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## The things that I am currently learning are
 
-![Dev Icons](https://api.devicons.dev.br/icon?icons=Arduino%2CBlender%2CCSS%2CGodot%2CHTML%2CJavaScript%2CPython%2CKali&size=200&theme=dark&perline=10)
+<h3>Web Dev</h3>
+|HTML| |CSS| |Javascript| |React|<br> 
+[![Dev Icons](https://api.devicons.dev.br/icon?icons=HTML%2CCSS%2CJavaScript%2CReact&size=48&theme=dark&perline=7)]
 
 
 
 
 ## Some things I am planing to make 
--A game
--A site that has a machine that can show a the possible moves in ches
+-A game <br>
+-A site that has a machine that can show a the possible moves in chess
+
+## My Socials 
 
 ## That is all about me
 
